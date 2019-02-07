@@ -4,7 +4,7 @@
 ``` javascript
 config = {
   header: {
-    visible: false, // false: hide the heade NavBar
+    visible: false, // false: hider the heade NavBar
     hasLogo: true, // false: hide logo
     logoMarginLeft: 0,
     logoMarginRight: 16,

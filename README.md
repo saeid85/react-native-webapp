@@ -1,6 +1,11 @@
 # react-native-webapp
 
-## Config file
+### Dependencies
+- React Native Webview: **[Link](https://github.com/react-native-community/react-native-webview/)**
+- Native Base: **[Link](http://nativebase.io/)**
+- React Native Splash Screen **[Link](https://github.com/crazycodeboy/react-native-splash-screen)**
+
+### Config file
 ``` javascript
 config = {
   header: {

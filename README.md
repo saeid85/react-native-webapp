@@ -5,6 +5,8 @@
 - Native Base: **[Link](http://nativebase.io/)**
 - React Native Splash Screen **[Link](https://github.com/crazycodeboy/react-native-splash-screen)**
 
+### Examples
+
 ### Config file
 ``` javascript
 config = {

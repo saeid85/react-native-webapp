@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { ActivityIndicator, Image, StyleSheet, View } from "react-native";
 import { Container, Header, Title, Body } from "native-base";
+import SplashScreen from "react-native-splash-screen";
 import { WebView } from "react-native-webview";
 import config from "../../config";
 
@@ -8,6 +9,10 @@ export default class HomeScreen extends Component<Props> {
   state = {
     isLoading: false
   };
+
+  componentDidMount() {
+    SplashScreen.hide();
+  }
 
   render() {
     const { header, spinner, web } = config;

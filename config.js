@@ -1,6 +1,6 @@
 export default (config = {
   header: {
-    visible: true, // false: hide the heade NavBar
+    visible: false, // false: hide the heade NavBar
     hasLogo: true, // false: hide logo
     logoMarginLeft: 0,
     logoMarginRight: 16,

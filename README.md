@@ -7,7 +7,7 @@
 
 ### Examples
 
-|#### Splash Screen|#### With Header & Logo|#### Without Header|
+|Splash Screen| With Header & Logo| Without Header|
 | --- | --- | --- |
 |![](screenshots/rnwa-splash-screen.png) | ![](screenshots/rnwa-with-header.png) | ![](screenshots/rnwa-without-header.png)|
 

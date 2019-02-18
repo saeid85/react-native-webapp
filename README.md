@@ -6,6 +6,14 @@
 - React Native Splash Screen **[Link](https://github.com/crazycodeboy/react-native-splash-screen)**
 
 ### Examples
+#### Splash Screen
+![](screenshots/rnwa-splash-screen.png)
+
+#### With Header & Logo
+![](screenshots/rnwa-with-header.png)
+
+#### Without Header
+![](screenshots/rnwa-without-header.png)
 
 ### Config file
 ``` javascript

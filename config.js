@@ -1,14 +1,14 @@
 export default (config = {
   header: {
     visible: false, // false: hide the header NavBar
-    hasLogo: true, // false: hide logo
+    hasLogo: false, // false: hide logo
     logoMarginLeft: 0,
     logoMarginRight: 16,
-    logoHeight: 24,
-    logoWidth: 24,
-    title: "RN WebApp",
-    titleColor: "#000",
-    backgroundColor: "#f70",
+    logoHeight: 26,
+    logoWidth: 26,
+    title: "React Native WebApp",
+    titleColor: "#303030",
+    backgroundColor: "#fff",
     paddingLeft: 16
   },
   spinner: {
@@ -19,7 +19,7 @@ export default (config = {
     positionBottom: 10,
   },
   web: {
-    url: "https://github.com/",
+    url: "https://facebook.github.io/react-native/",
     marginTop: 0,
     automaticallyAdjustContentInsets: true,  // Set this to provide JavaScript that will be injected into the web page when the view loads. Make sure the string evaluates to a valid type (true works) and doesn't otherwise throw an exception.
     cacheEnabled: true, // Sets whether WebView & WKWebView should use browser caching.

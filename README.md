@@ -7,6 +7,10 @@ The only thing you need to do is clone the project and open `config.js` and chan
 - Native Base: **[Link](http://nativebase.io/)**
 - React Native Splash Screen **[Link](https://github.com/crazycodeboy/react-native-splash-screen)**
 
+### How to Use
+
+### Extra Steps
+
 ### Examples
 
 |Splash Screen| With Header & Logo| Without Header|
